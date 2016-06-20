@@ -1,0 +1,10 @@
+-- Haskell Playground 1.0
+Zero
+
+Succ Zero
+
+nat2Int Zero
+
+nat2Int $ Succ $ Succ Zero
+
+int2Nat 5

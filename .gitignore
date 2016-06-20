@@ -19,4 +19,3 @@ cabal.sandbox.config
 cabal.project.local
 1__*.hs
 .uuid
-*.hsplay
