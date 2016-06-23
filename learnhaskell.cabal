@@ -12,4 +12,7 @@ Executable learnhaskell
   build-depends:
       base -any
   other-modules:
+      HaskellFairyLand
       Nat
+      EitherSample
+      Book

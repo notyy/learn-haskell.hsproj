@@ -1,0 +1,5 @@
+-- Haskell Playground 1.0
+let book = Book {name = "new scala",author = "notyy",isbn = "you guess",price = 0.12}
+
+name book
+price book
