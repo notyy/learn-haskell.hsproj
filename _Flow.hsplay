@@ -1,0 +1,4 @@
+-- Haskell Playground 1.0
+Combine (+1) (LastStep (length))
+
+Combine (add1) (LastStep (multi2))

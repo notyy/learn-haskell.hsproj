@@ -1,4 +1,4 @@
-module Main where
+module FileLinesCount where
  
 import System.Directory
 import System.IO
@@ -8,7 +8,6 @@ import System.Environment
 main :: IO ()
 main = do
         [path] <- getArgs
-        putStrLn path
         total <- countDir path
         print $ total
         return ()

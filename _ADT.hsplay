@@ -1,0 +1,40 @@
+-- Haskell Playground 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+myMap (+1) (Leaf 2)
+myMap (+2) (Node 1 (Leaf 2) (Leaf 3))

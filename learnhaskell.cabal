@@ -10,9 +10,18 @@ Executable learnhaskell
   main-is: Learn_haskell.hs
   buildable: True
   build-depends:
-      base -any
+      base -any,
+      directory -any
   other-modules:
-      HaskellFairyLand
-      Nat
+      MyFunction
       EitherSample
+      FileLinesCount
+      Option
+      HaskellFairyLand
+      Flow
+      Nat
       Book
+      Learnhaskell
+      Main
+      TypeClass
+      ADT

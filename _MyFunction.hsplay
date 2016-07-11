@@ -1,15 +1,2 @@
 -- Haskell Playground 1.0
-
-
-
-
-
-
-
-
-
-
-
-
-
-roman 5
+fmap (+1) (*2)
