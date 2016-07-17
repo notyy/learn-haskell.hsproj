@@ -1,0 +1,32 @@
+-- Haskell Playground 1.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+calc $ Lover 20 75 171 100000 1 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bmiScore $ bmi 70 171

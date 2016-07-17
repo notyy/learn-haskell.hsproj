@@ -13,6 +13,7 @@ Executable learnhaskell
       base -any,
       directory -any
   other-modules:
+      Love
       MyFunction
       EitherSample
       FileLinesCount
