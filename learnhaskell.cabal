@@ -14,6 +14,7 @@ Executable learnhaskell
       directory -any
   other-modules:
       Love
+      Collection
       MyFunction
       EitherSample
       FileLinesCount
@@ -22,6 +23,7 @@ Executable learnhaskell
       Flow
       Nat
       Book
+      MyMonad
       Learnhaskell
       Main
       TypeClass

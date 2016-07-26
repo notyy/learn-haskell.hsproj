@@ -19,3 +19,6 @@ myLength = length
 
 
 data Flow a b = LastStep (a -> b) | forall c. Combine (a -> b) (Flow b c)
+
+fmap :: (b -> c) -> (a -> b) -> (a -> c)
+fmap f g = \x -> f(g x)

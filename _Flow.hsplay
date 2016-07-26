@@ -2,3 +2,22 @@
 Combine (+1) (LastStep (length))
 
 Combine (add1) (LastStep (multi2))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flow.fmap int2Str add1

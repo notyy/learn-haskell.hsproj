@@ -5,10 +5,17 @@
 
 
 
-myMap (+1) (Some 1)
-myMap (*2) None
 
 
 
 
-TypeClass.fmap (+2) (Some 1)
+
+
+
+
+
+
+
+
+
+
