@@ -35,3 +35,10 @@ fetchEmail' urlStr = bind getEmail (bind getUser (getConn urlStr))
 
 fetchEmail'' :: UrlStr -> Maybe Email
 fetchEmail'' urlStr = (getConn urlStr) >>= getUser >>= getEmail
+
+fetchEmail''' :: UrlStr -> Maybe Email
+fetchEmail''' urlStr = do
+                          conn <- getConn urlStr
+                          user <- getUser conn
+                          email <- getEmail user
+                          return email

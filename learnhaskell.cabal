@@ -18,6 +18,7 @@ Executable learnhaskell
       MyFunction
       EitherSample
       FileLinesCount
+      IOSample
       Option
       HaskellFairyLand
       Flow
@@ -28,3 +29,4 @@ Executable learnhaskell
       Main
       TypeClass
       ADT
+      Rock
