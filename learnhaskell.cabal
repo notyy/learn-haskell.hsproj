@@ -13,6 +13,7 @@ Executable learnhaskell
       base -any,
       directory -any
   other-modules:
+      TypeClass
       Love
       Collection
       MyFunction
@@ -25,8 +26,9 @@ Executable learnhaskell
       Nat
       Book
       MyMonad
+      TrySample
       Learnhaskell
+      MTPC
       Main
-      TypeClass
       ADT
       Rock
